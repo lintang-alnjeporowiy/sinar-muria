@@ -1,17 +1,17 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          Paijo
+description:    "Blog bggg"
 #baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+url:            "https://lintang-alnjeporowiy.github.io/sinar-muria/"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Paijo
+  url:          https://lintang-alnjeporowiy.github.io/sinar-muria/
+  email:        qonquerorhilal@gmail.com
 
 # Build settings
 markdown:       kramdown
@@ -28,7 +28,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
-  # - jemoji #Uncomment this to allow emoji in your post
+  - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
 permalink:      /:year-:month-:day/:title

@@ -1,8 +1,8 @@
 # Site settings
 title:          Paijo
 description:    "Blog bggg"
-#baseurl:        "/tale"
-url:            "https://lintang-alnjeporowiy.github.io/sinar-muria/"
+baseurl:        "/sinar-muria"
+url:            "https://lintang-alnjeporowiy.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
